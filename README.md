@@ -1,4 +1,8 @@
 # WeatherPythonApp
+
+This simple app shows the **current weather** for your chosen city.
+
+
 **Getting Started**
 
 To use this app, follow these steps:

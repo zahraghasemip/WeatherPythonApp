@@ -3,7 +3,7 @@ import requests
 
 def process_data(data):
     return {"city:": data['name'],"datetime:":data['dt'],"temp:":data['main']['temp'],"humidity: ":data['main']['humidity']}
-def get_data(city='New York',appid='d2acd71894f83b9ff42cc7e33d4e09fb'):
+def get_data(city='New York',appid=''):
  
     URL = "https://api.openweathermap.org/data/2.5/weather"
  

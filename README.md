@@ -1,5 +1,6 @@
 # WeatherPythonApp
 **Getting Started**
+
 To use this app, follow these steps:
 
 **Generate an API Key:**
